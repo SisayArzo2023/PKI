@@ -45,6 +45,10 @@ Configure event log forwarding or agent-based log collection to stream Windows e
 
 By leveraging these tools and utilities within the Microsoft Windows ecosystem, we can effectively monitor and manage the PKI infrastructure, ensuring the security, reliability, and compliance of certificate services and key management processes.
 
-The architecture of the monitoring tool
+### The architecture of the monitoring tool
 i. Database
 ii. Collection agents 
+
+### A Little About C# 
+#### Type Safe
+The C# code is type safe can only access memory locations that it has permission to execute. This feature significantly enhances program security.
